@@ -23,3 +23,5 @@ A simplified xHCI controller emulation implemented based on the specification.
 - pcie 5.0 Spec
 - pg054
 - USB Spec
+
+## I'm looking for like-minded individuals passionate about pcileech development to join the community and discuss/share technical insights. DC:https://discord.gg/vNDNxzKv
