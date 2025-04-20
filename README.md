@@ -11,4 +11,15 @@ A simplified xHCI controller emulation implemented based on the specification.
 - xHCI core operations are handled through TRB queues (e.g., Command Ring, Transfer Ring).  
 - TRB transmission/reception logic is implemented to improve emulation accuracy:  
   - **Reception**: Parses TRB fields (e.g., Buffer Pointer, TRB Type, IOC flag).  
-  - **Transmission**: Constructs spec-compliant TRBs (e.g., `TRB_TYPE_NORMAL`, `TRB_TYPE_SETUP`).  
+  - **Transmission**: Constructs spec-compliant TRBs (e.g., `TRB_TYPE_NORMAL`, `TRB_TYPE_SETUP`).
+
+## **Design Support**
+### **Tools**
+- WaveDrom
+- Mermaid
+- Deepseek
+### **Specifications**
+- xHCI Spec
+- pcie 5.0 Spec
+- pg054
+- USB Spec
